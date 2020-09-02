@@ -2,11 +2,11 @@
 
 ## Italic
 
-*this is an italic text test*
-_italic_
+- *this is an italic text test*
+- _italic_
 
 ## Bold
 
-__this is a bold text test__
-**still bold**
+1 __this is a bold text test__
+2 **still bold**
 
